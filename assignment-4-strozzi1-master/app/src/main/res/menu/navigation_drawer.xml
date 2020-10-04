@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="@string/dummy_text"
+        android:icon="@drawable/ic_wb_sunny_black_24dp" />
+    <!--<item
+        android:id="@+id/nav_saved_repos"
+        android:title="@string/dummy_text"
+        android:icon="@drawable/ic_wb_sunny_black_24dp" />-->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/dummy_text"
+        android:icon="@drawable/ic_wb_sunny_black_24dp" />
+
+</menu>
